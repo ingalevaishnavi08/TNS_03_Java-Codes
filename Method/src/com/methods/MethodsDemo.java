@@ -8,13 +8,13 @@ public class MethodsDemo {
     	int a=10;
     	int b=20;
     	int add=a+b;
-    	System.out.println("Addition of a and b="+add);
+    	System.out.println("Addition of a and b= "+add);
     }
     //with parentheses
     public void multiply(int a,int b)
     {
     	int mul=a*b;
-    	System.out.println("Multiplication of a and b="+mul);
+    	System.out.println("Multiplication of a and b= "+mul);
     }
     
 public static void main(String[] args) {
